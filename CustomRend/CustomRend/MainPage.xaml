@@ -9,7 +9,7 @@
                 VerticalOptions="Start" 
                 HorizontalOptions="CenterAndExpand" />
             <Entry Placeholder="Nomal Entry"></Entry>
-            <local:MyEntry Placeholder="Custom Entry"></local:MyEntry>
+            <local:MyEntry Placeholder="Custom Entry Update"></local:MyEntry>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
